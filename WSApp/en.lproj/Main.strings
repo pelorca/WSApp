@@ -1,0 +1,42 @@
+
+/* Class = "UITextField"; placeholder = "Senha"; ObjectID = "03G-XK-Rm3"; */
+"03G-XK-Rm3.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Data Experição:"; ObjectID = "0YX-7e-3qS"; */
+"0YX-7e-3qS.text" = "Expiration Date:";
+
+/* Class = "UILabel"; text = "Descrição:"; ObjectID = "0sO-ef-B10"; */
+"0sO-ef-B10.text" = "Description:";
+
+/* Class = "UILabel"; text = "🔵"; ObjectID = "3XF-I9-cys"; */
+"3XF-I9-cys.text" = "🔵";
+
+/* Class = "UITextField"; placeholder = "Login"; ObjectID = "6Ht-gN-KHy"; */
+"6Ht-gN-KHy.placeholder" = "Login";
+
+/* Class = "UITextField"; placeholder = "TITULO"; ObjectID = "CfX-fg-hpX"; */
+"CfX-fg-hpX.placeholder" = "TITLE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D0z-We-W4A"; */
+"D0z-We-W4A.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Task"; ObjectID = "DCW-dM-LkE"; */
+"DCW-dM-LkE.title" = "Task";
+
+/* Class = "UIButton"; normalTitle = "Salvar"; ObjectID = "R4c-ao-Iln"; */
+"R4c-ao-Iln.normalTitle" = "Save";
+
+/* Class = "UINavigationItem"; title = "Criar Nova"; ObjectID = "TeZ-DE-ETX"; */
+"TeZ-DE-ETX.title" = "New Task";
+
+/* Class = "UILabel"; text = "Completo ?"; ObjectID = "aau-XO-PWL"; */
+"aau-XO-PWL.text" = "Complete ?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rNW-88-Myx"; */
+"rNW-88-Myx.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wcD-Vd-w0b"; */
+"wcD-Vd-w0b.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Logar"; ObjectID = "xJv-Q6-Mol"; */
+"xJv-Q6-Mol.normalTitle" = "Sign";
